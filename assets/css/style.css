@@ -1,0 +1,20 @@
+table td{
+    font-size: 64px;
+    text-align: center;
+    
+}
+table tr, td{
+    border:0px !important;
+}
+table td{
+    border-right: 1px solid #ccc !important;
+}
+table td:last-child{
+    border-right: 0px !important;
+}
+table tr{
+    border-bottom: 1px solid #ccc !important;
+}
+table tr:last-of-type{
+    border-bottom: 0px !important;
+}
