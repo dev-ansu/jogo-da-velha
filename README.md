@@ -6,3 +6,5 @@ Este jogo foi desenvolvido durante a pós-graduação da Gran Faculdade. As melh
 - Melhoria da soma de linhas, colunas e diagonais;
 - Uso do document.createElement em vez de HTML diretamente no script;
 - Design mais amigável.
+
+<a target="_blank" href="https://dev-ansu.github.io/jogo-da-velha/">Jogar - jogo da velha </a>
